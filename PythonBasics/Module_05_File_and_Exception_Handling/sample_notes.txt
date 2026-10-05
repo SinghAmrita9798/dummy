@@ -1,0 +1,3 @@
+Python file handling
+Mode w overwrites existing content.
+Mode a appends this extra line.
